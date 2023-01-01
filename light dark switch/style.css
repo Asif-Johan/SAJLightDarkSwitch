@@ -1,0 +1,13 @@
+.normal{
+    background: rgb(244, 243, 243);
+    transition: all 1s;
+    transform: translateX(5%);
+    /* display: flex; */
+}
+.dark{
+    background: #000;
+    color: rgb(245, 247, 249);
+    transition: all 1s;
+    transform: translateX(2%);
+    /* display: block; */
+}
